@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Fractals {
     public static void main(String args[]){
-        
+        //dgfsgdfg
         Scanner in =  new Scanner(System.in);
         int lado;
         //dfghndgfh
