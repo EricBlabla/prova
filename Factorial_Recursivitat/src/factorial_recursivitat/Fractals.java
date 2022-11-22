@@ -6,7 +6,7 @@ public class Fractals {
         
         Scanner in =  new Scanner(System.in);
         int lado;
-        
+        //dfghndgfh
         System.out.println("Dime el lado del cuadrato inicial");
         lado =  in.nextInt();
         
